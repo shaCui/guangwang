@@ -9,6 +9,5 @@ node_modules
 *.log
 Hango.zip
 *.xcuserstate
-Hango/AuthKey_*.p8
 Hango/fastlane/.env
 Hango/fastlane/report.xml
