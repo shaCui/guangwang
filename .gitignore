@@ -1,0 +1,20 @@
+# Xcode
+build/
+DerivedData/
+*.xcuserstate
+*.xccheckout
+*.xcscmblueprint
+**/xcuserdata/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Cursor / IDE
+.cursor/
+
+# Archives
+*.ipa
+*.dSYM.zip
+*.dSYM

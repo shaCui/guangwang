@@ -1,0 +1,123 @@
+{
+  "appPolicies" : {
+    "eula" : "",
+    "policies" : [
+      {
+        "locale" : "en_US",
+        "policyText" : "",
+        "policyURL" : ""
+      }
+    ]
+  },
+  "identifier" : "AcapeShelf",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "ACAPE001",
+      "localizations" : [
+        {
+          "description" : "400 credits",
+          "displayName" : "400 Credits",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "lvbsvhxcgcrvesor",
+      "referenceName" : "Shelf 0.99",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "4.99",
+      "familyShareable" : false,
+      "internalID" : "ACAPE002",
+      "localizations" : [
+        {
+          "description" : "2450 credits",
+          "displayName" : "2450 Credits",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "dxismgcwewhrtezo",
+      "referenceName" : "Shelf 4.99",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "9.99",
+      "familyShareable" : false,
+      "internalID" : "ACAPE003",
+      "localizations" : [
+        {
+          "description" : "5150 credits",
+          "displayName" : "5150 Credits",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "khtxlcejaxmqcsra",
+      "referenceName" : "Shelf 9.99",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "19.99",
+      "familyShareable" : false,
+      "internalID" : "ACAPE004",
+      "localizations" : [
+        {
+          "description" : "10800 credits",
+          "displayName" : "10800 Credits",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "yadwwvxspgxwldnb",
+      "referenceName" : "Shelf 19.99",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "49.99",
+      "familyShareable" : false,
+      "internalID" : "ACAPE005",
+      "localizations" : [
+        {
+          "description" : "29400 credits",
+          "displayName" : "29400 Credits",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "qnrcuelbtiuflyky",
+      "referenceName" : "Shelf 49.99",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "99.99",
+      "familyShareable" : false,
+      "internalID" : "ACAPE006",
+      "localizations" : [
+        {
+          "description" : "63700 credits",
+          "displayName" : "63700 Credits",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "ymohxnvpkqxutvab",
+      "referenceName" : "Shelf 99.99",
+      "type" : "Consumable"
+    }
+  ],
+  "settings" : {
+    "_askToBuyEnabled" : false,
+    "_failTransactionsEnabled" : false,
+    "_storeKitErrors" : [
+
+    ],
+    "_timeRate" : 0
+  },
+  "subscriptionGroups" : [
+
+  ],
+  "version" : {
+    "major" : 4,
+    "minor" : 0
+  }
+}

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSCameraUsageDescription</key>
+	<string>This app requests camera permission to take photos for profile avatars and record original video content. All media captured via camera stays safely on your device and will not be uploaded without your explicit consent.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>This app requests microphone permission to record audio for your singing videos, support voice chat and singing room communication. Any audio recordings will only be utilized with your clear approval.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>This app requests photo library access for selecting local pictures to set avatars or share saved videos. Selected media files will only be applied for your authorized operations and stored locally securely.</string>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsArbitraryLoads</key>
+		<true/>
+	</dict>
+	<key>UIApplicationSceneManifest</key>
+	<dict>
+		<key>UIApplicationSupportsMultipleScenes</key>
+		<false/>
+		<key>UISceneConfigurations</key>
+		<dict>
+			<key>UIWindowSceneSessionRoleApplication</key>
+			<array>
+				<dict>
+					<key>UISceneConfigurationName</key>
+					<string>Default Configuration</string>
+					<key>UISceneDelegateClassName</key>
+					<string>SceneDelegate</string>
+				</dict>
+			</array>
+		</dict>
+	</dict>
+</dict>
+</plist>

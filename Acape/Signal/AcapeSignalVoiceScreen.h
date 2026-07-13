@@ -1,0 +1,12 @@
+#import <UIKit/UIKit.h>
+#import "AcapeSignalThread.h"
+
+NS_ASSUME_NONNULL_BEGIN
+
+@interface AcapeSignalVoiceScreen : UIViewController
+
+- (instancetype)initWithThread:(AcapeSignalThread *)thread;
+
+@end
+
+NS_ASSUME_NONNULL_END
