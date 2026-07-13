@@ -13,6 +13,16 @@ DerivedData/
 
 # Cursor / IDE
 .cursor/
+.idea/
+
+# Web / Vite
+.vite-ssg-dist
+.vite-ssg-temp
+*.local
+dist
+dist-ssr
+node_modules
+*.log
 
 # Archives
 *.ipa
