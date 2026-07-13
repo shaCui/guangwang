@@ -13,6 +13,7 @@ DerivedData/
 
 # Cursor / IDE
 .cursor/
+.kiro/
 .idea/
 
 # Web / Vite
