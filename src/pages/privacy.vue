@@ -423,14 +423,14 @@ const appName = 'Cubixa'
   .protocol {
     font-size: 14px;
     margin-bottom: 14px;
-    color: #000;
-    margin-left:6px;
-    margin-right:6px;
-    background-color: fff;
+    color: #ffffff;
+    margin-left: 6px;
+    margin-right: 6px;
+    background-color: #161621;
   }
   .bt {
     font-size: 20px;
     margin: 6px 0px;
-    color: #7f1146;
+    color: #ffffff;
   }
 </style>
