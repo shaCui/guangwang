@@ -522,24 +522,25 @@ const appName = 'Yoka'
     padding: 0px 25px;
     font-size: 14px;
     margin-bottom: 14px;
-    color: #ffffff;
-    background-color: transparent;
+    color: #666666;
+
+    background-color: #fff;
   }
   .T_title {
     font-size: 18px;
     font-weight: 600;
     margin: 1rem 0px;
-    color: #ffffff;
+    color: #666666;
   }
   .T_content {
     font-size: 14px;
     margin-bottom: 12px;
-    color: #ffffff;
+    /* color: #666; */
   }
   .title_content {
     font-size: 12px;
     margin-bottom: 12px;
-    color: #ffffff;
+    color: #666;
     margin-left: 12px;
     margin-right:12px;
   }
