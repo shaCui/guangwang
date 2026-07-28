@@ -423,10 +423,10 @@ const appName = 'Yoka'
   .protocol {
     font-size: 14px;
     margin-bottom: 14px;
-    color: #000;
+    color: #333333;
     margin-left:6px;
     margin-right:6px;
-    background-color: #fff;
+    background-color: #ffffff;
   }
   .bt {
     font-size: 20px;

@@ -535,7 +535,7 @@ const appName = 'Yoka'
   .T_content {
     font-size: 14px;
     margin-bottom: 12px;
-    /* color: #666; */
+    color: #666666;
   }
   .title_content {
     font-size: 12px;
