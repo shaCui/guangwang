@@ -2,7 +2,7 @@
 defineOptions({
   name: 'IndexPage',
 })
-const appName = 'Test1'
+const appName = 'Sailora'
 </script>
 
 <template>
@@ -414,7 +414,7 @@ const appName = 'Test1'
       9. Contacting Us
     </div>
     If you have any questions about our Privacy Policy or any privacy-related
-    matters, please contact us via email at 【{{ appName }}@{{ appName }}.site】.
+    matters, please contact us via email at 【sa345@gmail.com】.
     <br><br>
   </div>
 </template>
