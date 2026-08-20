@@ -9,9 +9,9 @@ defineOptions({
     <img h-full w-full src="../assets/bg.webp" alt="">
 
     <div class="email" absolute bottom-10 w-full flex justify-center>
-      <div rd-2 bg-black p-2 p-x-5 text-8 color-white>
-        639293382@qq.com
-      </div>
+      <a href="mailto:ze123@gmail.com" rd-2 bg-black p-2 p-x-5 text-8 color-white style="text-decoration: none">
+        ze123@gmail.com
+      </a>
     </div>
   </div>
 </template>
