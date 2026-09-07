@@ -10,7 +10,7 @@ defineOptions({
 
     <div class="email" absolute bottom-10 w-full flex justify-center>
       <div rd-2 bg-black p-2 p-x-5 text-8 color-white>
-        639293382@qq.com
+        <a href="mailto:mwc@gmail.com" class="color-white no-underline">mwc@gmail.com</a>
       </div>
     </div>
   </div>
